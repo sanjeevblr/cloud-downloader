@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+cloud-downloader:
+  ftp:
+    url: localhost
+    username: username
+    password: password
+    port: 2221
+    fileType: 1
